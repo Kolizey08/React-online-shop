@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.divMain {
+    margin-top: 5%;
+    display: flex;
+}
+
+.praviBlock {
+    font-family: 'Roboto', sans-serif;
+    padding-left: 3%;
+    width: 30%;
+}

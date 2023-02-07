@@ -1,0 +1,29 @@
+.divProdukt{
+    display: flex;
+    flex-direction: column;
+}
+
+/*  */
+.divProdukt img{
+    height: 180px;
+}
+
+.img_container {
+    text-align: center;
+}
+
+
+.btn {
+    font-size: 17px;
+    background: blue;
+    border: 1px;
+    border-radius: 3px;
+    color: white;
+    height: 35px;
+}
+
+.span {
+    font-size: 18px;
+    color: #7a7878;
+    margin-bottom: 3%;
+}

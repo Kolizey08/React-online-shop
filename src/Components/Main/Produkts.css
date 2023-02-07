@@ -1,0 +1,19 @@
+.divProdukts {
+    /* margin-left: 10%; */
+    width: 30%;
+    padding-bottom: 20px;
+}
+/* 
+.divProdukts:hover {
+   width: 27%;
+   transition: 0.3s;
+} */
+
+.leviBlok {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-right: 5%;
+    padding-left: 5%;
+    width: 80%;
+}
